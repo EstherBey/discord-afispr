@@ -18,5 +18,5 @@ Daha fazlası için abone olup yorum atabilirsiniz.
 Destek için yazabilirsin.
 
 <body>
-<img src="/img/firewall.gif" style="width:445px;height:350px;" alt="Windows Firewall">
+<img src="https://amaameraa.please-fuck.me/5q1R6RopV.gif" style="width:445px;height:350px;" alt="Nasıl Yapılır">
 </body>
