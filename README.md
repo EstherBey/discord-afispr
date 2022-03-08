@@ -16,3 +16,7 @@ Daha fazlası için abone olup yorum atabilirsiniz.
 
 İnstagram Adım: xest.cf
 Destek için yazabilirsin.
+
+<body>
+<img src="/img/firewall.gif" style="width:445px;height:350px;" alt="Windows Firewall">
+</body>
